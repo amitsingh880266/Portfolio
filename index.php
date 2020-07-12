@@ -24,6 +24,14 @@
       </div>
     </section>
 
+
+    <div class="container">
+        <h1 class="h1">
+        
+            amit Singh
+        </h1>
+    </div>
+
 <?php
     require_once('includes/footer.php');
 ?>
